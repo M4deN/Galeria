@@ -32,11 +32,11 @@ header div.galeria div.single-galeria{
 }
 
 header div.galeria div.single-galeria:first-child{
-    width: 35% !important;
+    width: 20% !important;
 }
 
 header div.galeria:hover div.single-galeria:first-child{
-    width: 20% !important;
+    width: 30% !important;
 }
 
 header div.galeria div.single-galeria:hover{
@@ -44,7 +44,7 @@ header div.galeria div.single-galeria:hover{
 }
 
 header div.galeria div.single-galeria:first-child:hover{
-    width: 35% !important;
+    width: 30% !important;
 }
 
 
