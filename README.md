@@ -2,7 +2,7 @@
 <p><b>Galeria Animada 🧮</b></p>
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-<a href="https://alexdesaran.github.io/Netflix/"> Visite o site! </a>
+<a href="https://alexdesaran.github.io/Galeria/"> Visite o site! </a>
 
 <h4> 
 	Projeto Concluído ✅
@@ -36,11 +36,11 @@ Foi desenvolvido diretamente no código.</p>
 <h3>Sessão Principal:</h3>
 
 
-![Começo](https://github.com/AlexDeSaran/Netflix/blob/main/Images/cap1.PNG)
+![Começo](https://github.com/AlexDeSaran/Galeria/blob/main/img/cap1.png)
 
 <h3>Section Animada</h3>
 
-![Começo](https://github.com/AlexDeSaran/Netflix/blob/main/Images/cap2.PNG)
+![Começo](https://github.com/AlexDeSaran/Galeria/blob/main/img/cap2.png)
 
 ##### Autor do Projeto: Alécio L. Medeiros
 
