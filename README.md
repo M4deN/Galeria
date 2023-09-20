@@ -41,7 +41,3 @@ Foi desenvolvido diretamente no código.</p>
 <h3>Section Animada</h3>
 
 ![Começo](https://github.com/AlexDeSaran/Galeria/blob/main/img/cap2.png)
-
-<h3 id="autor"Autor</h3>
-
-<p>Autor do Projeto: Alécio L. Medeiros</p>
