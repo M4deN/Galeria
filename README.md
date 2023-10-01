@@ -15,7 +15,7 @@
 </ul>
 
 <h2 id="sobre">Sobre</h2>
-<p>Esse projeto Foi desenvolvido a fins de estudos e práticas para Desenvolvimento web e práticas de responsividade. O projeto não teve protótipo.
+<p>Esse projeto Foi desenvolvido a fins de estudos e práticas para Desenvolvimento web. O projeto não teve protótipo.
 Foi desenvolvido diretamente no código.</p>
 
 <p>O projeto não está Totalmente responsivo, atendendo a alguns dispositivos.</p>
@@ -30,13 +30,8 @@ Foi desenvolvido diretamente no código.</p>
 
 <h2 id="sessao">Sessão do Projeto:</h2>
 
-<p>Pagina principal  da galeria interativa<p>
+<p>Galeria interativa<p>
 
 <h3>Sessão Principal:</h3>
 
-
 ![Começo](https://github.com/AlexDeSaran/Galeria/blob/main/img/cap1.png)
-
-<h3>Section Animada</h3>
-
-![Começo](https://github.com/AlexDeSaran/Galeria/blob/main/img/cap2.png)

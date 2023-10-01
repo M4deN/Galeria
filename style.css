@@ -84,52 +84,15 @@ header div.galeria div.single-galeria div.info a:hover{
     text-decoration: underline;
 }
 
-section{
+footer{
+    position: fixed;
+    background-color:rgb(3, 3, 15);
+    bottom: 0;
     width: 100%;
-    height: 100vh;
-    padding: 8%;
-    display: grid;
-    place-items: center;
-    background: linear-gradient(to right, midnightblue, firebrick, springgreen, rgb(136, 125, 125), yellow, rgb(245, 192, 255) );
-    background-size: 500% 100%;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    animation-name: background;
-    animation-duration: 5s;
-    animation-timing-function: ease-in-out;
-    animation-direction: alternate;
-    animation-iteration-count: infinite;
-
-    }
-    section p{
-        font-family: "Arial";
-        text-align: center;
-        font-size: 100px;
-        font-weight: 200
-      
-    }
-    @keyframes background{
-    0%{
-        background-position-x: 0%;
-    }
-    100%{
-        background-position-x: 100%;
-    }
-
-
-    @media screen and (max-width: 764px){
-
-        header div.galeria{
-            width: 100%;
-            height: 70vh;
-            justify-content: flex-start;
-            overflow-x: scroll;
-        }
-        
-        header div.galeria div.single-galeria{
-            min-width: 90% !important;
-        }
-}
+    padding: 5px;
+    text-align: center;
+  }
+  footer p,a {
+    margin-top: auto;
+    color: lime;
+  }
