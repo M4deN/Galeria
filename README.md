@@ -2,7 +2,7 @@
 <p><b>Galeria Animada 🧮</b></p>
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-<a href="https://alexdesaran.github.io/Galeria/"> Visite o site! </a>
+<a href="https://m4den.github.io/Galeria/"> Visite o site! </a>
 
 <h4> 
 	Projeto Concluído ✅
