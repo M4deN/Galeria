@@ -31,6 +31,14 @@ header div.galeria div.single-galeria{
     transition: width 1s;
 }
 
+header div.galeria div.single-galeria:hover {
+    transform: scale(1.0);
+    transition: transform 0.1s ease;
+}
+header div.galeria div.single-galeria:hover{
+    transform: scale(1.0,1.0);
+}
+
 header div.galeria div.single-galeria:first-child{
     width: 20% !important;
 }
@@ -101,4 +109,5 @@ footer{
     color: white;
     margin-left: 0.2em;
     color: var(--white);
+    text-decoration: none;
   }
