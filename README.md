@@ -2,7 +2,6 @@
 <p><b>Galeria Animada 🧮</b></p>
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-<a href="https://m4den.github.io/Galeria/"> Visite o site! </a>
 
 <h4> 
 	Projeto Concluído ✅
@@ -10,8 +9,8 @@
 
 <ul>
  <li><a href="#sobre">Sobre</a></li>
- <li><a href="#tecnologias">Tecnologias usadas</a></li> 
- <li><a href="#sessao">sessão da página</a></li>
+ <li><a href="#tecnologias">Tecnologias</a></li> 
+ <li><a href="#sessao">Sessão da Página</a></li>
 </ul>
 
 <h2 id="sobre">Sobre</h2>
@@ -30,3 +29,9 @@ Foi desenvolvido diretamente no código.</p>
 <h3>Sessão Principal:</h3>
 
 ![Começo](https://github.com/AlexDeSaran/Galeria/blob/main/img/cap1.png)
+
+---
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT [LICENSE](LICENSE).
