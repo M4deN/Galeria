@@ -24,9 +24,7 @@ Foi desenvolvido diretamente no código.</p>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 </p>
 
-<h2 id="sessao">Sessão do Projeto:</h2>
-<p>Galeria interativa<p>
-<h3>Sessão Principal:</h3>
+<h2 id="sessao">Sessão do Página:</h2>
 
 ![Começo](https://github.com/AlexDeSaran/Galeria/blob/main/img/cap1.png)
 
